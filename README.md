@@ -27,15 +27,23 @@ git clone https://github.com/your-username/kenStack-expo-GluestackIO.git
 
 2. Navigate into the project directory:
 
+```bash
 - cd kenStack-expo-GluestackIO
+
+```
 
 3. Install dependencies:
 
+```bash
 - npm install
+
+```
 
 4. Start the development server
 
+```bash
 - npm start
+```
 
 Open the Expo Go app on your mobile device and scan the QR code displayed in the terminal to view the app.
 Available Scripts
